@@ -1,3 +1,4 @@
+package patterns;
 //Square Filled Pattern
 import java.util.Scanner;
 class p1{

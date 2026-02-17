@@ -1,3 +1,4 @@
+package patterns;
 //Right Half Pyramid
 
 import java.util.Scanner;

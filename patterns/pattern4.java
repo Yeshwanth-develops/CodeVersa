@@ -1,3 +1,4 @@
+package patterns;
 //Square Hollow Pattern
 
 import java.util.Scanner;

@@ -1,3 +1,4 @@
+package patterns;
 //Number Triangle center Pattern
 import java.util.Scanner;
 class pattern5 {

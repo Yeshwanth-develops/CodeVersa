@@ -1,3 +1,4 @@
+package patterns;
 // Reverse Pyramid
 import java .util.Scanner;
 class p3 {
